@@ -1,0 +1,20 @@
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.AssemblyReference.cache
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.Form1.resources
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.Properties.Resources.resources
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.GenerateResource.cache
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.AssemblyReference.cache
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.Form1.resources
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.Properties.Resources.resources
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.GenerateResource.cache
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
