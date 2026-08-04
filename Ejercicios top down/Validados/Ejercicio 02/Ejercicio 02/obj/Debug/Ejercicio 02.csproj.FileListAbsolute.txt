@@ -8,3 +8,13 @@ C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 02\Eje
 C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.csproj.CoreCompileInputs.cache
 C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.exe
 C:\Users\ingga\source\repos\Ejercicios top down\Sin validación\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.pdb
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\bin\Debug\Ejercicio 02.exe.config
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\bin\Debug\Ejercicio 02.exe
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\bin\Debug\Ejercicio 02.pdb
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.csproj.AssemblyReference.cache
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio_02.Form1.resources
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio_02.Properties.Resources.resources
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.csproj.GenerateResource.cache
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.exe
+C:\Users\ingga\source\repos\Ejercicios PE C# WF\Ejercicios top down\Validados\Ejercicio 02\Ejercicio 02\obj\Debug\Ejercicio 02.pdb
