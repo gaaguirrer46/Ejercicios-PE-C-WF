@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ingga\\source\\repos\\Ejercicios PE C# WF\\Ejercicios top down\\Validados\\Ejercicio 03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FB168EC-7E95-4599-A356-26F98C27B8C2}|Ejercicio 03\\Ejercicio 03.csproj|c:\\users\\ingga\\source\\repos\\ejercicios pe c# wf\\ejercicios top down\\validados\\ejercicio 03\\ejercicio 03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FB168EC-7E95-4599-A356-26F98C27B8C2}|Ejercicio 03\\Ejercicio 03.csproj|C:\\Users\\ingga\\source\\repos\\Ejercicios PE C# WF\\Ejercicios top down\\Validados\\Ejercicio 03\\ejercicio 03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB168EC-7E95-4599-A356-26F98C27B8C2}|Ejercicio 03\\Ejercicio 03.csproj|solutionrelative:ejercicio 03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB168EC-7E95-4599-A356-26F98C27B8C2}|Ejercicio 03\\Ejercicio 03.csproj|C:\\Users\\ingga\\source\\repos\\Ejercicios PE C# WF\\Ejercicios top down\\Validados\\Ejercicio 03\\ejercicio 03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4FB168EC-7E95-4599-A356-26F98C27B8C2}|Ejercicio 03\\Ejercicio 03.csproj|c:\\users\\ingga\\source\\repos\\ejercicios pe c# wf\\ejercicios top down\\validados\\ejercicio 03\\ejercicio 03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4FB168EC-7E95-4599-A356-26F98C27B8C2}|Ejercicio 03\\Ejercicio 03.csproj|solutionrelative:ejercicio 03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Ejercicio 03\\Form1.cs",
               "ToolTip": "C:\\Users\\ingga\\source\\repos\\Ejercicios PE C# WF\\Ejercicios top down\\Validados\\Ejercicio 03\\Ejercicio 03\\Form1.cs",
               "RelativeToolTip": "Ejercicio 03\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwFgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-04T15:25:09.881Z",
               "EditorCaption": ""
@@ -43,10 +43,11 @@
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ingga\\source\\repos\\Ejercicios PE C# WF\\Ejercicios top down\\Validados\\Ejercicio 03\\Ejercicio 03\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio 03\\Form1.cs",
-              "ToolTip": "C:\\Users\\ingga\\source\\repos\\Ejercicios top down\\Sin validaci\u00F3n\\Ejercicio 03\\Ejercicio 03\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\Ejercicios top down\\Sin validaci\u00F3n\\Ejercicio 03\\Ejercicio 03\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\ingga\\source\\repos\\Ejercicios PE C# WF\\Ejercicios top down\\Validados\\Ejercicio 03\\Ejercicio 03\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio 03\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T15:19:22.599Z"
+              "WhenOpened": "2026-08-04T15:19:22.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
